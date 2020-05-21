@@ -1,0 +1,10 @@
+Arunabh Chaudhuri ac2237
+12/4/18
+
+After creating the simple game I added two fairly basic extensions. The first
+extension was adding sound. I added sound when the alien shoots and when the
+ship shoots. Next, I added a points system. When you kill the closest types of
+aliens you receive 5 points, the second furthest you receive 10 points, and
+the next is 15 points. With this, I display what the players score is at the
+end of the game. Moreover, I display the lives and the score at all times during
+the game. 
